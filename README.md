@@ -1,8 +1,8 @@
 # HNGi7_josoga2
-HNGi 7 First Task
+## HNGi 7 First Task
 
 
-Ever wanted to manage your digital products in an intelligent, collaborative and secure space, then you probably need GitHub. GitHub is a Git based version control software (VCS) which has grown into one of the most important tools for developers globally.
+Ever wanted to manage your digital products in an intelligent, collaborative and secure space, then you probably need GitHub. **GitHub** is a Git based version control software (VCS) which has grown into one of the most important tools for developers globally.
 
 However, without a proper briefing system (or way of summarizing), the collaborative power of GitHub is lost. Developers globally have adopted the README file (which github tells you to create upon creation of a new repo) as a standard convention for documenting summaries, install guides, versioning, tech stack, snapshots, images, licensing and collaborators. This is effectively done using a simple syntax known as Markdown abbreviated as .md, hence the file Readme.md.
 
@@ -43,4 +43,4 @@ Tables (A little bit technical, but intuitive)
 
 These are the basics of markdown with Github, and I hope they should get you going. 
 
-##Wale Ogunleye (josoga2)
+## Wale Ogunleye (josoga2)
