@@ -34,15 +34,12 @@ A `code` can be inside a line
 Blockquotes (github's version of reply email)
 > You are doing well !!!
 Tables (A little bit technical, but intuitive)
-| Interns 		|Mentors 		|
 
-| ------------- 	|:-------------:	|
-
-| wale 			| seyi 			|
-
-| joseph 		| mark			|
-
-| josoga 		| xylus 			|
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
 These are the basics of markdown with Github, and I hope they should get you going. 
 
